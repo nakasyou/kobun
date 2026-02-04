@@ -1,0 +1,84 @@
+{
+  "text": "徒然なるままに、日くらし硯にむかひて、",
+  "source": "『徒然草』",
+  "tokens": [
+    {
+      "surface": "徒然",
+      "base": "徒然",
+      "pos": "名詞",
+      "reading": "ツレズレ"
+    },
+    {
+      "surface": "なる",
+      "base": "なり-断定",
+      "pos": "助動詞",
+      "reading": "ナル"
+    },
+    {
+      "surface": "まま",
+      "base": "侭",
+      "pos": "名詞",
+      "reading": "ママ"
+    },
+    {
+      "surface": "に",
+      "base": "に",
+      "pos": "助詞",
+      "reading": "ニ"
+    },
+    {
+      "surface": "、",
+      "base": "、",
+      "pos": "補助記号",
+      "reading": "、"
+    },
+    {
+      "surface": "日",
+      "base": "日",
+      "pos": "名詞",
+      "reading": "ヒ"
+    },
+    {
+      "surface": "く",
+      "base": "来る",
+      "pos": "動詞",
+      "reading": "ク"
+    },
+    {
+      "surface": "らし",
+      "base": "らし",
+      "pos": "助動詞",
+      "reading": "ラシ"
+    },
+    {
+      "surface": "硯",
+      "base": "硯",
+      "pos": "名詞",
+      "reading": "スズリ"
+    },
+    {
+      "surface": "に",
+      "base": "に",
+      "pos": "助詞",
+      "reading": "ニ"
+    },
+    {
+      "surface": "むかひ",
+      "base": "向かう",
+      "pos": "動詞",
+      "reading": "ムカイ"
+    },
+    {
+      "surface": "て",
+      "base": "て",
+      "pos": "助詞",
+      "reading": "テ"
+    },
+    {
+      "surface": "、",
+      "base": "、",
+      "pos": "補助記号",
+      "reading": "、"
+    }
+  ]
+}

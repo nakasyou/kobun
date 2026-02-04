@@ -1,0 +1,84 @@
+{
+  "text": "祇園精舎の鐘の声、諸行無常の響きあり。",
+  "source": "『平家物語』",
+  "tokens": [
+    {
+      "surface": "祇園",
+      "base": "ギオン",
+      "pos": "名詞",
+      "reading": "ギオン"
+    },
+    {
+      "surface": "精舎",
+      "base": "精舎",
+      "pos": "名詞",
+      "reading": "ショージャ"
+    },
+    {
+      "surface": "の",
+      "base": "の",
+      "pos": "助詞",
+      "reading": "ノ"
+    },
+    {
+      "surface": "鐘",
+      "base": "鐘",
+      "pos": "名詞",
+      "reading": "カネ"
+    },
+    {
+      "surface": "の",
+      "base": "の",
+      "pos": "助詞",
+      "reading": "ノ"
+    },
+    {
+      "surface": "声",
+      "base": "声",
+      "pos": "名詞",
+      "reading": "コエ"
+    },
+    {
+      "surface": "、",
+      "base": "、",
+      "pos": "補助記号",
+      "reading": "、"
+    },
+    {
+      "surface": "諸行",
+      "base": "諸行",
+      "pos": "名詞",
+      "reading": "ショギョー"
+    },
+    {
+      "surface": "無常",
+      "base": "無常",
+      "pos": "名詞",
+      "reading": "ムジョー"
+    },
+    {
+      "surface": "の",
+      "base": "の",
+      "pos": "助詞",
+      "reading": "ノ"
+    },
+    {
+      "surface": "響き",
+      "base": "響き",
+      "pos": "名詞",
+      "reading": "ヒビキ"
+    },
+    {
+      "surface": "あり",
+      "base": "有る",
+      "pos": "動詞",
+      "reading": "アリ"
+    },
+    {
+      "surface": "。",
+      "base": "。",
+      "pos": "補助記号",
+      "reading": "。"
+    }
+  ]
+}

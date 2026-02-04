@@ -1,0 +1,66 @@
+{
+  "text": "春はあけぼの。やうやう白くなりゆく山ぎは、",
+  "source": "『枕草子』",
+  "tokens": [
+    {
+      "surface": "春",
+      "base": "春",
+      "pos": "名詞",
+      "reading": "ハル"
+    },
+    {
+      "surface": "は",
+      "base": "は",
+      "pos": "助詞",
+      "reading": "ワ"
+    },
+    {
+      "surface": "あけぼの",
+      "base": "曙",
+      "pos": "名詞",
+      "reading": "アケボノ"
+    },
+    {
+      "surface": "。",
+      "base": "。",
+      "pos": "補助記号",
+      "reading": "。"
+    },
+    {
+      "surface": "やうやう",
+      "base": "漸う",
+      "pos": "副詞",
+      "reading": "ヨーヨー"
+    },
+    {
+      "surface": "白く",
+      "base": "白い",
+      "pos": "形容詞",
+      "reading": "シロク"
+    },
+    {
+      "surface": "なり",
+      "base": "成る",
+      "pos": "動詞",
+      "reading": "ナリ"
+    },
+    {
+      "surface": "ゆく",
+      "base": "行く",
+      "pos": "動詞",
+      "reading": "ユク"
+    },
+    {
+      "surface": "山ぎは",
+      "base": "山際",
+      "pos": "名詞",
+      "reading": "ヤマギワ"
+    },
+    {
+      "surface": "、",
+      "base": "、",
+      "pos": "補助記号",
+      "reading": "、"
+    }
+  ]
+}

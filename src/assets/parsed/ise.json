@@ -1,0 +1,942 @@
+{
+  "text": "むかしおとこありけり。うゐかぶりして。ならの京かすがの里にしるよしして。かりにいきけり。其さとに。いともなまめきたる女ばらすみけり。かのおとこかいま見てけり。おもほえずふるさとに。いともはしたなくありければ。心ちまどひにけり。男きたりけるかりぎぬのすそをきりて。うたをかきてやる。そのおとこしのぶずりのかりぎぬをなんきたりける。\n\nかすかのゝ若紫の摺ころもしのふのみたれかきりしられす\n\nとなん。をいつぎてやれりける。おもしろきことゝや。\n陸奧に忍ふもちすりたれゆへに亂れそめけん我ならなくに\nといふうたのこゝろばへなり。むかし人は。かくいちはやきみやびをなんしける。",
+  "source": "『伊勢物語』 - Wikisource https://ja.wikisource.org/wiki/%E4%BC%8A%E5%8B%A2%E7%89%A9%E8%AA%9E",
+  "tokens": [
+    {
+      "surface": "むかし",
+      "base": "昔",
+      "pos": "名詞",
+      "reading": "ムカシ"
+    },
+    {
+      "surface": "おとこ",
+      "base": "男",
+      "pos": "名詞",
+      "reading": "オトコ"
+    },
+    {
+      "surface": "あり",
+      "base": "有る",
+      "pos": "動詞",
+      "reading": "アリ"
+    },
+    {
+      "surface": "けり",
+      "base": "けり",
+      "pos": "助動詞",
+      "reading": "ケリ"
+    },
+    {
+      "surface": "。",
+      "base": "。",
+      "pos": "補助記号",
+      "reading": "。"
+    },
+    {
+      "surface": "うゐ",
+      "base": "有為",
+      "pos": "名詞",
+      "reading": "ウイ"
+    },
+    {
+      "surface": "かぶり",
+      "base": "冠",
+      "pos": "名詞",
+      "reading": "カブリ"
+    },
+    {
+      "surface": "し",
+      "base": "為る",
+      "pos": "動詞",
+      "reading": "シ"
+    },
+    {
+      "surface": "て",
+      "base": "て",
+      "pos": "助詞",
+      "reading": "テ"
+    },
+    {
+      "surface": "。",
+      "base": "。",
+      "pos": "補助記号",
+      "reading": "。"
+    },
+    {
+      "surface": "なら",
+      "base": "ナラ",
+      "pos": "名詞",
+      "reading": "ナラ"
+    },
+    {
+      "surface": "の",
+      "base": "の",
+      "pos": "助詞",
+      "reading": "ノ"
+    },
+    {
+      "surface": "京",
+      "base": "京",
+      "pos": "名詞",
+      "reading": "キョー"
+    },
+    {
+      "surface": "かすが",
+      "base": "カスガ",
+      "pos": "名詞",
+      "reading": "カスガ"
+    },
+    {
+      "surface": "の",
+      "base": "の",
+      "pos": "助詞",
+      "reading": "ノ"
+    },
+    {
+      "surface": "里",
+      "base": "里",
+      "pos": "名詞",
+      "reading": "サト"
+    },
+    {
+      "surface": "に",
+      "base": "に",
+      "pos": "助詞",
+      "reading": "ニ"
+    },
+    {
+      "surface": "しる",
+      "base": "知る",
+      "pos": "動詞",
+      "reading": "シル"
+    },
+    {
+      "surface": "よし",
+      "base": "由",
+      "pos": "名詞",
+      "reading": "ヨシ"
+    },
+    {
+      "surface": "し",
+      "base": "為る",
+      "pos": "動詞",
+      "reading": "シ"
+    },
+    {
+      "surface": "て",
+      "base": "て",
+      "pos": "助詞",
+      "reading": "テ"
+    },
+    {
+      "surface": "。",
+      "base": "。",
+      "pos": "補助記号",
+      "reading": "。"
+    },
+    {
+      "surface": "かり",
+      "base": "仮",
+      "pos": "名詞",
+      "reading": "カリ"
+    },
+    {
+      "surface": "に",
+      "base": "に",
+      "pos": "助詞",
+      "reading": "ニ"
+    },
+    {
+      "surface": "いき",
+      "base": "行く",
+      "pos": "動詞",
+      "reading": "イキ"
+    },
+    {
+      "surface": "けり",
+      "base": "けり",
+      "pos": "助動詞",
+      "reading": "ケリ"
+    },
+    {
+      "surface": "。",
+      "base": "。",
+      "pos": "補助記号",
+      "reading": "。"
+    },
+    {
+      "surface": "其",
+      "base": "其",
+      "pos": "代名詞",
+      "reading": "ソ"
+    },
+    {
+      "surface": "さと",
+      "base": "里",
+      "pos": "名詞",
+      "reading": "サト"
+    },
+    {
+      "surface": "に",
+      "base": "に",
+      "pos": "助詞",
+      "reading": "ニ"
+    },
+    {
+      "surface": "。",
+      "base": "。",
+      "pos": "補助記号",
+      "reading": "。"
+    },
+    {
+      "surface": "いとも",
+      "base": "最も",
+      "pos": "副詞",
+      "reading": "イトモ"
+    },
+    {
+      "surface": "なま",
+      "base": "生",
+      "pos": "名詞",
+      "reading": "ナマ"
+    },
+    {
+      "surface": "めき",
+      "base": "めく",
+      "pos": "接尾辞",
+      "reading": "メキ"
+    },
+    {
+      "surface": "たる",
+      "base": "たり-完了",
+      "pos": "助動詞",
+      "reading": "タル"
+    },
+    {
+      "surface": "女ばら",
+      "base": "女輩",
+      "pos": "名詞",
+      "reading": "オンナバラ"
+    },
+    {
+      "surface": "すみ",
+      "base": "住む",
+      "pos": "動詞",
+      "reading": "スミ"
+    },
+    {
+      "surface": "けり",
+      "base": "けり",
+      "pos": "助動詞",
+      "reading": "ケリ"
+    },
+    {
+      "surface": "。",
+      "base": "。",
+      "pos": "補助記号",
+      "reading": "。"
+    },
+    {
+      "surface": "か",
+      "base": "彼",
+      "pos": "代名詞",
+      "reading": "カ"
+    },
+    {
+      "surface": "の",
+      "base": "の",
+      "pos": "助詞",
+      "reading": "ノ"
+    },
+    {
+      "surface": "おとこ",
+      "base": "男",
+      "pos": "名詞",
+      "reading": "オトコ"
+    },
+    {
+      "surface": "かいま見",
+      "base": "垣間見る",
+      "pos": "動詞",
+      "reading": "カイマミ"
+    },
+    {
+      "surface": "て",
+      "base": "つ",
+      "pos": "助動詞",
+      "reading": "テ"
+    },
+    {
+      "surface": "けり",
+      "base": "けり",
+      "pos": "助動詞",
+      "reading": "ケリ"
+    },
+    {
+      "surface": "。",
+      "base": "。",
+      "pos": "補助記号",
+      "reading": "。"
+    },
+    {
+      "surface": "おもほえ",
+      "base": "思ほえる",
+      "pos": "動詞",
+      "reading": "オモホエ"
+    },
+    {
+      "surface": "ず",
+      "base": "ず",
+      "pos": "助動詞",
+      "reading": "ズ"
+    },
+    {
+      "surface": "ふるさと",
+      "base": "古里",
+      "pos": "名詞",
+      "reading": "フルサト"
+    },
+    {
+      "surface": "に",
+      "base": "に",
+      "pos": "助詞",
+      "reading": "ニ"
+    },
+    {
+      "surface": "。",
+      "base": "。",
+      "pos": "補助記号",
+      "reading": "。"
+    },
+    {
+      "surface": "いとも",
+      "base": "最も",
+      "pos": "副詞",
+      "reading": "イトモ"
+    },
+    {
+      "surface": "はしたなく",
+      "base": "はしたない",
+      "pos": "形容詞",
+      "reading": "ハシタナク"
+    },
+    {
+      "surface": "あり",
+      "base": "有る",
+      "pos": "動詞",
+      "reading": "アリ"
+    },
+    {
+      "surface": "けれ",
+      "base": "けり",
+      "pos": "助動詞",
+      "reading": "ケレ"
+    },
+    {
+      "surface": "ば",
+      "base": "ば",
+      "pos": "助詞",
+      "reading": "バ"
+    },
+    {
+      "surface": "。",
+      "base": "。",
+      "pos": "補助記号",
+      "reading": "。"
+    },
+    {
+      "surface": "心ち",
+      "base": "心地",
+      "pos": "名詞",
+      "reading": "ココチ"
+    },
+    {
+      "surface": "まどひ",
+      "base": "惑う",
+      "pos": "動詞",
+      "reading": "マドイ"
+    },
+    {
+      "surface": "に",
+      "base": "ぬ",
+      "pos": "助動詞",
+      "reading": "ニ"
+    },
+    {
+      "surface": "けり",
+      "base": "けり",
+      "pos": "助動詞",
+      "reading": "ケリ"
+    },
+    {
+      "surface": "。",
+      "base": "。",
+      "pos": "補助記号",
+      "reading": "。"
+    },
+    {
+      "surface": "男",
+      "base": "男",
+      "pos": "名詞",
+      "reading": "オトコ"
+    },
+    {
+      "surface": "き",
+      "base": "来る",
+      "pos": "動詞",
+      "reading": "キ"
+    },
+    {
+      "surface": "たり",
+      "base": "たり-完了",
+      "pos": "助動詞",
+      "reading": "タリ"
+    },
+    {
+      "surface": "ける",
+      "base": "けり",
+      "pos": "助動詞",
+      "reading": "ケル"
+    },
+    {
+      "surface": "かりぎぬ",
+      "base": "狩衣",
+      "pos": "名詞",
+      "reading": "カリギヌ"
+    },
+    {
+      "surface": "の",
+      "base": "の",
+      "pos": "助詞",
+      "reading": "ノ"
+    },
+    {
+      "surface": "すそ",
+      "base": "裾",
+      "pos": "名詞",
+      "reading": "スソ"
+    },
+    {
+      "surface": "を",
+      "base": "を",
+      "pos": "助詞",
+      "reading": "オ"
+    },
+    {
+      "surface": "きり",
+      "base": "切る",
+      "pos": "動詞",
+      "reading": "キリ"
+    },
+    {
+      "surface": "て",
+      "base": "て",
+      "pos": "助詞",
+      "reading": "テ"
+    },
+    {
+      "surface": "。",
+      "base": "。",
+      "pos": "補助記号",
+      "reading": "。"
+    },
+    {
+      "surface": "うた",
+      "base": "歌",
+      "pos": "名詞",
+      "reading": "ウタ"
+    },
+    {
+      "surface": "を",
+      "base": "を",
+      "pos": "助詞",
+      "reading": "オ"
+    },
+    {
+      "surface": "かき",
+      "base": "書く",
+      "pos": "動詞",
+      "reading": "カキ"
+    },
+    {
+      "surface": "て",
+      "base": "て",
+      "pos": "助詞",
+      "reading": "テ"
+    },
+    {
+      "surface": "やる",
+      "base": "遣る",
+      "pos": "動詞",
+      "reading": "ヤル"
+    },
+    {
+      "surface": "。",
+      "base": "。",
+      "pos": "補助記号",
+      "reading": "。"
+    },
+    {
+      "surface": "そ",
+      "base": "其",
+      "pos": "代名詞",
+      "reading": "ソ"
+    },
+    {
+      "surface": "の",
+      "base": "の",
+      "pos": "助詞",
+      "reading": "ノ"
+    },
+    {
+      "surface": "おとこ",
+      "base": "男",
+      "pos": "名詞",
+      "reading": "オトコ"
+    },
+    {
+      "surface": "しのぶずり",
+      "base": "忍摺り",
+      "pos": "名詞",
+      "reading": "シノブズリ"
+    },
+    {
+      "surface": "の",
+      "base": "の",
+      "pos": "助詞",
+      "reading": "ノ"
+    },
+    {
+      "surface": "かりぎぬ",
+      "base": "狩衣",
+      "pos": "名詞",
+      "reading": "カリギヌ"
+    },
+    {
+      "surface": "を",
+      "base": "を",
+      "pos": "助詞",
+      "reading": "オ"
+    },
+    {
+      "surface": "なん",
+      "base": "なむ",
+      "pos": "助詞",
+      "reading": "ナン"
+    },
+    {
+      "surface": "き",
+      "base": "来る",
+      "pos": "動詞",
+      "reading": "キ"
+    },
+    {
+      "surface": "たり",
+      "base": "たり-完了",
+      "pos": "助動詞",
+      "reading": "タリ"
+    },
+    {
+      "surface": "ける",
+      "base": "けり",
+      "pos": "助動詞",
+      "reading": "ケル"
+    },
+    {
+      "surface": "。",
+      "base": "。",
+      "pos": "補助記号",
+      "reading": "。"
+    },
+    {
+      "surface": "かすか",
+      "base": "微か",
+      "pos": "形状詞",
+      "reading": "カスカ"
+    },
+    {
+      "surface": "の",
+      "base": "の",
+      "pos": "助詞",
+      "reading": "ノ"
+    },
+    {
+      "surface": "ゝ",
+      "base": "ゝ",
+      "pos": "補助記号",
+      "reading": "ゝ"
+    },
+    {
+      "surface": "若紫",
+      "base": "若紫",
+      "pos": "名詞",
+      "reading": "ワカムラサキ"
+    },
+    {
+      "surface": "の",
+      "base": "の",
+      "pos": "助詞",
+      "reading": "ノ"
+    },
+    {
+      "surface": "摺",
+      "base": "刷り",
+      "pos": "名詞",
+      "reading": "スリ"
+    },
+    {
+      "surface": "ころも",
+      "base": "衣",
+      "pos": "名詞",
+      "reading": "コロモ"
+    },
+    {
+      "surface": "しのふ",
+      "base": "偲ぶ",
+      "pos": "動詞",
+      "reading": "シノウ"
+    },
+    {
+      "surface": "のみ",
+      "base": "のみ",
+      "pos": "助詞",
+      "reading": "ノミ"
+    },
+    {
+      "surface": "たれ",
+      "base": "誰",
+      "pos": "代名詞",
+      "reading": "タレ"
+    },
+    {
+      "surface": "か",
+      "base": "か",
+      "pos": "助詞",
+      "reading": "カ"
+    },
+    {
+      "surface": "きり",
+      "base": "霧",
+      "pos": "名詞",
+      "reading": "キリ"
+    },
+    {
+      "surface": "しら",
+      "base": "知る",
+      "pos": "動詞",
+      "reading": "シラ"
+    },
+    {
+      "surface": "れ",
+      "base": "れる",
+      "pos": "助動詞",
+      "reading": "レ"
+    },
+    {
+      "surface": "す",
+      "base": "せる",
+      "pos": "助動詞",
+      "reading": "ス"
+    },
+    {
+      "surface": "と",
+      "base": "と",
+      "pos": "助詞",
+      "reading": "ト"
+    },
+    {
+      "surface": "なん",
+      "base": "なむ",
+      "pos": "助詞",
+      "reading": "ナン"
+    },
+    {
+      "surface": "。",
+      "base": "。",
+      "pos": "補助記号",
+      "reading": "。"
+    },
+    {
+      "surface": "をい",
+      "base": "置く",
+      "pos": "動詞",
+      "reading": "オイ"
+    },
+    {
+      "surface": "つぎ",
+      "base": "継ぐ",
+      "pos": "動詞",
+      "reading": "ツギ"
+    },
+    {
+      "surface": "て",
+      "base": "て",
+      "pos": "助詞",
+      "reading": "テ"
+    },
+    {
+      "surface": "やれ",
+      "base": "遣る",
+      "pos": "動詞",
+      "reading": "ヤレ"
+    },
+    {
+      "surface": "り",
+      "base": "り",
+      "pos": "助動詞",
+      "reading": "リ"
+    },
+    {
+      "surface": "ける",
+      "base": "けり",
+      "pos": "助動詞",
+      "reading": "ケル"
+    },
+    {
+      "surface": "。",
+      "base": "。",
+      "pos": "補助記号",
+      "reading": "。"
+    },
+    {
+      "surface": "おもしろき",
+      "base": "面白い",
+      "pos": "形容詞",
+      "reading": "オモシロキ"
+    },
+    {
+      "surface": "こと",
+      "base": "事",
+      "pos": "名詞",
+      "reading": "コト"
+    },
+    {
+      "surface": "ゝ",
+      "base": "に",
+      "pos": "助詞",
+      "reading": "ニ"
+    },
+    {
+      "surface": "や",
+      "base": "や",
+      "pos": "助詞",
+      "reading": "ヤ"
+    },
+    {
+      "surface": "。",
+      "base": "。",
+      "pos": "補助記号",
+      "reading": "。"
+    },
+    {
+      "surface": "陸奧",
+      "base": "ミチノク",
+      "pos": "名詞",
+      "reading": "ミチノクノ"
+    },
+    {
+      "surface": "に",
+      "base": "に",
+      "pos": "助詞",
+      "reading": "ニ"
+    },
+    {
+      "surface": "忍",
+      "base": "忍びる",
+      "pos": "動詞",
+      "reading": "シノビ"
+    },
+    {
+      "surface": "ふ",
+      "base": "経る",
+      "pos": "動詞",
+      "reading": "フ"
+    },
+    {
+      "surface": "もち",
+      "base": "持つ",
+      "pos": "動詞",
+      "reading": "モチ"
+    },
+    {
+      "surface": "すり",
+      "base": "擦る",
+      "pos": "動詞",
+      "reading": "スリ"
+    },
+    {
+      "surface": "たれ",
+      "base": "たり-完了",
+      "pos": "助動詞",
+      "reading": "タレ"
+    },
+    {
+      "surface": "ゆへ",
+      "base": "故",
+      "pos": "名詞",
+      "reading": "ユエ"
+    },
+    {
+      "surface": "に",
+      "base": "に",
+      "pos": "助詞",
+      "reading": "ニ"
+    },
+    {
+      "surface": "亂れ",
+      "base": "乱れる",
+      "pos": "動詞",
+      "reading": "ミダレ"
+    },
+    {
+      "surface": "そめ",
+      "base": "初める",
+      "pos": "動詞",
+      "reading": "ソメ"
+    },
+    {
+      "surface": "けん",
+      "base": "けむ",
+      "pos": "助動詞",
+      "reading": "ケン"
+    },
+    {
+      "surface": "我",
+      "base": "我",
+      "pos": "代名詞",
+      "reading": "ワレ"
+    },
+    {
+      "surface": "なら",
+      "base": "なり-断定",
+      "pos": "助動詞",
+      "reading": "ナラ"
+    },
+    {
+      "surface": "なく",
+      "base": "ず",
+      "pos": "助動詞",
+      "reading": "ナク"
+    },
+    {
+      "surface": "に",
+      "base": "に",
+      "pos": "助詞",
+      "reading": "ニ"
+    },
+    {
+      "surface": "と",
+      "base": "と",
+      "pos": "助詞",
+      "reading": "ト"
+    },
+    {
+      "surface": "いふ",
+      "base": "言う",
+      "pos": "動詞",
+      "reading": "イウ"
+    },
+    {
+      "surface": "うた",
+      "base": "歌",
+      "pos": "名詞",
+      "reading": "ウタ"
+    },
+    {
+      "surface": "の",
+      "base": "の",
+      "pos": "助詞",
+      "reading": "ノ"
+    },
+    {
+      "surface": "こゝろ",
+      "base": "心",
+      "pos": "名詞",
+      "reading": "ココロ"
+    },
+    {
+      "surface": "ばへ",
+      "base": "蠅",
+      "pos": "名詞",
+      "reading": "バエ"
+    },
+    {
+      "surface": "なり",
+      "base": "なり-断定",
+      "pos": "助動詞",
+      "reading": "ナリ"
+    },
+    {
+      "surface": "。",
+      "base": "。",
+      "pos": "補助記号",
+      "reading": "。"
+    },
+    {
+      "surface": "むかし人",
+      "base": "昔人",
+      "pos": "名詞",
+      "reading": "ムカシビト"
+    },
+    {
+      "surface": "は",
+      "base": "は",
+      "pos": "助詞",
+      "reading": "ワ"
+    },
+    {
+      "surface": "。",
+      "base": "。",
+      "pos": "補助記号",
+      "reading": "。"
+    },
+    {
+      "surface": "かく",
+      "base": "斯く",
+      "pos": "副詞",
+      "reading": "カク"
+    },
+    {
+      "surface": "いちはやき",
+      "base": "逸早い",
+      "pos": "形容詞",
+      "reading": "イチハヤキ"
+    },
+    {
+      "surface": "みやび",
+      "base": "雅",
+      "pos": "名詞",
+      "reading": "ミヤビ"
+    },
+    {
+      "surface": "を",
+      "base": "を",
+      "pos": "助詞",
+      "reading": "オ"
+    },
+    {
+      "surface": "なん",
+      "base": "なむ",
+      "pos": "助詞",
+      "reading": "ナン"
+    },
+    {
+      "surface": "し",
+      "base": "為る",
+      "pos": "動詞",
+      "reading": "シ"
+    },
+    {
+      "surface": "ける",
+      "base": "けり",
+      "pos": "助動詞",
+      "reading": "ケル"
+    },
+    {
+      "surface": "。",
+      "base": "。",
+      "pos": "補助記号",
+      "reading": "。"
+    }
+  ]
+}

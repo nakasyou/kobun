@@ -1,0 +1,102 @@
+{
+  "text": "いづれの御時にか、女御更衣あまた候ひ給ひける中に、",
+  "source": "『源氏物語』桐壺",
+  "tokens": [
+    {
+      "surface": "いづれ",
+      "base": "何れ",
+      "pos": "代名詞",
+      "reading": "イズレ"
+    },
+    {
+      "surface": "の",
+      "base": "の",
+      "pos": "助詞",
+      "reading": "ノ"
+    },
+    {
+      "surface": "御",
+      "base": "御",
+      "pos": "接頭辞",
+      "reading": "オオン"
+    },
+    {
+      "surface": "時",
+      "base": "時",
+      "pos": "名詞",
+      "reading": "トキ"
+    },
+    {
+      "surface": "に",
+      "base": "に",
+      "pos": "助詞",
+      "reading": "ニ"
+    },
+    {
+      "surface": "か",
+      "base": "か",
+      "pos": "助詞",
+      "reading": "カ"
+    },
+    {
+      "surface": "、",
+      "base": "、",
+      "pos": "補助記号",
+      "reading": "、"
+    },
+    {
+      "surface": "女御",
+      "base": "女御",
+      "pos": "名詞",
+      "reading": "ニョーゴ"
+    },
+    {
+      "surface": "更衣",
+      "base": "更衣",
+      "pos": "名詞",
+      "reading": "コーイ"
+    },
+    {
+      "surface": "あまた",
+      "base": "数多",
+      "pos": "名詞",
+      "reading": "アマタ"
+    },
+    {
+      "surface": "候ひ",
+      "base": "侍う",
+      "pos": "動詞",
+      "reading": "サブライ"
+    },
+    {
+      "surface": "給ひ",
+      "base": "給う-尊敬",
+      "pos": "動詞",
+      "reading": "タマイ"
+    },
+    {
+      "surface": "ける",
+      "base": "けり",
+      "pos": "助動詞",
+      "reading": "ケル"
+    },
+    {
+      "surface": "中",
+      "base": "中",
+      "pos": "名詞",
+      "reading": "ナカ"
+    },
+    {
+      "surface": "に",
+      "base": "に",
+      "pos": "助詞",
+      "reading": "ニ"
+    },
+    {
+      "surface": "、",
+      "base": "、",
+      "pos": "補助記号",
+      "reading": "、"
+    }
+  ]
+}

@@ -1,5 +1,7 @@
 ## Usage
 
+Download unidic chuko v2025.12 from [here](https://clrd.ninjal.ac.jp/unidic/download_all.html#unidic_chj) and extract it to `unidic-chuko-v202512` folder.
+
 ```bash
 $ npm install # or pnpm install or yarn install
 ```
